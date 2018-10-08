@@ -27,7 +27,7 @@
     </parent>
     <groupId>org.glassfish.hk2</groupId>
     <artifactId>osgi-resource-locator</artifactId>
-    <version>1.0.3-SNAPSHOT</version>
+    <version>1.0.3</version>
     <name>OSGi resource locator</name>
     <description>Used by various API providers that rely on META-INF/services mechanism to locate providers.</description>
     <licenses>
@@ -47,7 +47,7 @@
         <url>https://github.com/eclipse-ee4j/glassfish-hk2-extra</url>
         <connection>scm:git:https://github.com/eclipse-ee4j/glassfish-hk2-extra.git</connection>
         <developerConnection>scm:git:git@github.com:eclipse-ee4j/glassfish-hk2-extra.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>1.0.3-RELEASE</tag>
     </scm>
     <developers>
         <developer>
